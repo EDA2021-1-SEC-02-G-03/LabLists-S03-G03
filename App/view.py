@@ -82,7 +82,7 @@ def printBestBooks(books):
 catalog = None
 
 """
-Menu principal
+Menu principa
 """
 while True:
     printMenu()
