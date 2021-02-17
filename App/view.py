@@ -66,7 +66,7 @@ def printAuthorData(author):
         for book in lt.iterator(author['books']):
             print('Titulo: ' + book['title'] + '  ISBN: ' + book['isbn'])
     else:
-        print('No se encontro el autor')
+        print('No se encontro él autor')
 
 
 def printBestBooks(books):
